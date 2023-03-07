@@ -1,0 +1,13 @@
+h2, h1 {
+    text-decoration: underline;
+}
+body {
+    text-align: center;
+}
+div.parent {
+    text-align: center;
+}
+ul, ol {
+    display: inline-block;
+    text-align: left;
+}
